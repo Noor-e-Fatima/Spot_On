@@ -90,19 +90,11 @@ Spot On is an advanced, AI-assisted land suitability analysis platform. Built wi
 ---
 >
 
-## 📦 Installation
+## 📦 Contact Us
 
-```bash
-# Clone the repository
-git clone https://github.com/Noor-e-Fatima/spot-on
-cd spot-on
+Contact us on LinkedIn(www.linkedin.com/in/noore-fatima-a9a021222) or via email nfatima.5.2003@gmail.com
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# Install dependencies
-pip install -r requirements.txt
 
 
 
